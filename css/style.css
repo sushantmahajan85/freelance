@@ -7580,6 +7580,7 @@ button.bg-dark:focus {
 }
 
 .m-0 {
+  font-size: 1rem;
   margin: 0 !important;
 }
 
@@ -7844,7 +7845,8 @@ button.bg-dark:focus {
 }
 
 .p-5 {
-  padding: 3rem !important;
+  padding: 1rem !important;
+  text-align: center;
 }
 
 .pt-5,
