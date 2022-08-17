@@ -7716,7 +7716,8 @@ button.bg-dark:focus {
 
 .mb-5,
 .my-5 {
-  margin-bottom: 3rem !important;
+  /* margin-bottom: 3rem !important; */
+  margin-top: 3rem;
 }
 
 .ml-5,
@@ -9921,7 +9922,7 @@ h6,
 }
 
 .testimonial-carousel .owl-item img {
-  width: 80px;
+  width: 0;
   height: 80px;
 }
 
