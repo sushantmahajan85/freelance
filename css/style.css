@@ -7852,7 +7852,7 @@ button.bg-dark:focus {
 
 .pt-5,
 .py-5 {
-  padding-top: 3rem !important;
+  padding-top: 1rem !important;
 }
 
 .pr-5,
@@ -9840,8 +9840,7 @@ h6,
 }
 
 .page-header {
-  height: 400px;
-  margin-bottom: 90px;
+  height: 200px;
 }
 
 @media (max-width: 991.98px) {
